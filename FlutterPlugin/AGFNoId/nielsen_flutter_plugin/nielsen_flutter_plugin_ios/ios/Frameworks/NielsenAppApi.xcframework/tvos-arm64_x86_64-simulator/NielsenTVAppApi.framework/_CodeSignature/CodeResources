@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		Pou36ILPn5zR63Exc1O6b84/iPY=
+		lSJwmKHHh+YxZpoa/muw2gYAUOo=
 		</data>
 		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		Pou36ILPn5zR63Exc1O6b84/iPY=
+		lSJwmKHHh+YxZpoa/muw2gYAUOo=
 		</data>
 		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -146,7 +146,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1qnOSJwEnFazWhq2kIkzyFF7IqznP1ZkUvuwLWcTcI8=
+			ufIkLcd/zO1dX7+imeLpEtK7UfSz4yO9Gc8060ASmSU=
 			</data>
 		</dict>
 		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
@@ -181,7 +181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1qnOSJwEnFazWhq2kIkzyFF7IqznP1ZkUvuwLWcTcI8=
+			ufIkLcd/zO1dX7+imeLpEtK7UfSz4yO9Gc8060ASmSU=
 			</data>
 		</dict>
 		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
